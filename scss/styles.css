@@ -89,7 +89,6 @@ form .button-1 {
 }
 
 #mainheader {
-  height: 100vh;
   background-image: linear-gradient(to right, #dab067, #d5bf99);
   padding-bottom: 2rem;
 }
@@ -189,7 +188,7 @@ form .button-1 {
   text-transform: uppercase;
 }
 #contact form {
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
   border: 1px solid black;
   padding: 30px;
